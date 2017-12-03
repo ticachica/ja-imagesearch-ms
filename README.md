@@ -1,2 +1,1 @@
-# ja-imagesearch-ms
-FCC Image Search Microservice project
+# Backend Challenges boilerplate - package.json

@@ -7,7 +7,7 @@
 > - I can get a list of the most recently submitted search strings.
 
 ## Example search usage
-`https://ja-urlshortener-ms.glitch.me/api/imagesearch/dresses?offset=10`
+`https://ja-imagesearch-ms.glitch.me/api/imagesearch/dresses?offset=10`
 
 ## Example list hisory usage
-`https://ja-urlshortener-ms.glitch.me/api/latest/imagesearch`
+`https://ja-imagesearch-ms.glitch.me/api/latest/imagesearch`
